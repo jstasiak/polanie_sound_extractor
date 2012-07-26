@@ -13,7 +13,7 @@ Requirements
 Usage
 =====
 
-python extractor.py SOUND_DAT OUTPUT_DIRECTORY
+	python extractor.py SOUND_DAT OUTPUT_DIRECTORY
 
 
 File format
